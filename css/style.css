@@ -12,6 +12,9 @@ header, footer {
   text-align: left;
 /*  min-width: 500px;*/
 }
+a {
+  color: #f94144;
+}
 
 header {
   font-family: 'Roboto Mono';
